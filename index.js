@@ -13,7 +13,7 @@ chat.init({
 app.listen(8080);
 
  
-// console.log('Server started at 8080');
+console.log('Server started at 8080');
 // console.log('Now you have two end point: http://localhost:8080/index.html');
 // console.log('Second end point is http://localhost:8080/index2.html');
 // console.log('Open both end point in different browser and your chat is ready to deploy');
